@@ -18,35 +18,6 @@ This is a man who runs his world with precision and heart. A supporter of $UICID
 
 ---
 
-## Aesthetic
-
-     ##### /##                                                    
-  ######  / ##                                                    
- /#   /  /  ##                                                    
-/    /  /   ##                                                    
-    /  /    /                                                     
-   ## ##   /       /##       /###       /###     /##  ###  /###   
-   ## ##  /       / ###     / ###  /   / ###  / / ###  ###/ #### /
-   ## ###/       /   ###   /   ###/   /   ###/ /   ###  ##   ###/ 
-   ## ##  ###   ##    ### ##    ##   ##    ## ##    ### ##        
-   ## ##    ##  ########  ##    ##   ##    ## ########  ##        
-   #  ##    ##  #######   ##    ##   ##    ## #######   ##        
-      /     ##  ##        ##    ##   ##    ## ##        ##        
-  /##/      ### ####    / ##    /#   ##    ## ####    / ##        
- /  ####    ##   ######/   ####/ ##  #######   ######/  ###       
-/    ##     #     #####     ###   ## ######     #####    ###      
-#                                    ##                           
- ##                                  ##                           
-                                     ##                           
-                                      ##                          
-
-
-
-
-Clean. Dark. Professional. Just like him.  
-
----
-
 ## Badges
 
 [![Brother](https://img.shields.io/badge/role-brother-black?style=for-the-badge&logo=github)](https://github.com/reaper)  
